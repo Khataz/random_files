@@ -1,3 +1,3 @@
 <?php
-fopen('index.php');
+fopen('index.php', 'r');
 ?>
